@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "friends":[
+                {
+                    "id":0,
+                    "name":"Friends",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/0.png"
+                },
+                {
+                    "id":1,
+                    "name": "Ross Geller",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/1.png"
+                },
+                {
+                    "id":2,
+                    "name": "Chandler Bing",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/2.png"
+                },
+                {
+                    "id":3,
+                    "name": "Joey Tribbiani",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/3.png"
+                },
+                {
+                    "id":4,
+                    "name": "Phoebe Buffay",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/4.png"
+                },
+                {
+                    "id":5,
+                    "name": "Mónica Geller",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/5.png"
+                },
+                {
+                    "id":6,
+                    "name": "Rachel Green",
+                    "url":"https://jugaz.github.io/series-tv-api/images/friends/6.png"
+                }
+            ],
+            
+            "big-bang-theory":[
+                {
+                    "id":0,
+                    "name":"Big Bang Theory",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/0.png"
+                },
+                {
+                    "id":1,
+                    "name": "Sheldon Cooper",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/1.png"
+                },
+                {
+                    "id":2,
+                    "name": "Leonard Hofstadter",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/2.png"
+                },
+                {
+                    "id":3,
+                    "name": "Howard Wolowitz",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/3.png"
+                },
+                {
+                    "id":4,
+                    "name": "Raj Koothrappali",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/4.png"
+                },
+                {
+                    "id":5,
+                    "name": "Penny",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/5.png"
+                },
+                {
+                    "id":6,
+                    "name": "Bernadette Rostenkowski",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/6.png"
+                },
+                {
+                    "id":7,
+                    "name": "Rachel Green",
+                    "url":"https://jugaz.github.io/series-tv-api/images/big-bang-theory/7.png"
+                }
+            ]
+        }
+        
+        
+    ]
+}
