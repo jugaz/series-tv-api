@@ -1,2 +1,2 @@
 # Series Tv
-https://github.com/jugaz/series-tv-api
+https://jugaz.github.io/series-tv-api/
